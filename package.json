@@ -1,0 +1,26 @@
+{
+  "name": "good-magic",
+  "version": "0.1.0",
+  "repository": "git://github.com/yonjah/good-magic",
+  "description": "Magic control for good reporter",
+  "main": "index.js",
+  "dependencies": {
+    "clan": "0.0.2",
+    "hoek": "2.x.x"
+  },
+  "peerDependencies": {
+    "good": ">= 5.x.x"
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "hapi",
+    "good",
+    "dynamic",
+    "reporter"
+  ],
+  "engines": {
+    "node": ">=0.10.x"
+  },
+  "licenses": "MIT"
+}
