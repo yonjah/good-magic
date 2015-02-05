@@ -5,14 +5,13 @@
   "description": "Magic control for good reporter",
   "main": "index.js",
   "dependencies": {
-    "clan": "0.0.2",
+    "clan": "0.0.3",
     "hoek": "2.x.x"
   },
   "peerDependencies": {
     "good": ">= 5.x.x"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "keywords": [
     "hapi",
     "good",
